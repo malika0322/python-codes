@@ -1,3 +1,5 @@
+'''7. Write a Python program to input n numbers from user; count the number of even and odd numbers
+from the input numbers and exit until the user input ‘0''''
 even_count=0
 odd_count=0
 num=int(input("enter numbers"))
