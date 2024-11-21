@@ -4,5 +4,4 @@
 list=['red','green','white','black','pink','yellow']
 new=[list[i] for i in range(len(list)) if i not in [0,4,5]] 
 print(new)
-    
 
