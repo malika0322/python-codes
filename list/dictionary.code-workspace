@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../dictionary"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../tuple"
+		}
+	]
+}

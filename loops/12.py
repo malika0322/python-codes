@@ -1,4 +1,14 @@
-rows = 5
+'''12. Write a Python program to construct the following pattern, using a nested for loop.
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * *
+* * *
+* *
+* '''
+   rows = 5
 
 # Upper part of the pattern
 for i in range(1, rows + 1):
