@@ -4,4 +4,5 @@ import tensorflow as tf
 string_tensor = tf.constant("TensorFlow Exercises!", dtype=tf.string) 
 print("String Tensor Value:", string_tensor.numpy().decode())
 #output
-''''''
+'''Tensor Shape: (3,)
+Data Type: <dtype: 'int32'>'''
